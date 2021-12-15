@@ -1,0 +1,243 @@
+This is my first basic schedulerThis is my first basic schedulerThis is my first basic schedulerThis is my first basic scheduler
+  [41;1m Error [49;22m
+
+[39;1m  Class "App\Console\Commands\User" not found[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39m:[32m41[39m
+     37▕      * @return int
+     38▕      */
+     39▕     public function handle()
+     40▕     {
+  ➜  41▕     $user = User::first();
+     42▕ 
+     43▕     $enrollmentData = [
+     44▕         'body' => 'You received a new test notification',
+     45▕         'enrollmentText' => 'You are allowed to enroll',
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\Util.php[39;22m:[39;1m40[39;22m
+  [37m    Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()[39m
+
+  [41;1m Error [49;22m
+
+[39;1m  Class "App\Console\Commands\User" not found[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39m:[32m41[39m
+     37▕      * @return int
+     38▕      */
+     39▕     public function handle()
+     40▕     {
+  ➜  41▕     $user = User::first();
+     42▕ 
+     43▕     $enrollmentData = [
+     44▕         'body' => 'You received a new test notification',
+     45▕         'enrollmentText' => 'You are allowed to enroll',
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\Util.php[39;22m:[39;1m40[39;22m
+  [37m    Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()[39m
+
+  [41;1m Error [49;22m
+
+[39;1m  Class "App\Console\Commands\User" not found[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39m:[32m41[39m
+     37▕      * @return int
+     38▕      */
+     39▕     public function handle()
+     40▕     {
+  ➜  41▕     $user = User::first();
+     42▕ 
+     43▕     $enrollmentData = [
+     44▕         'body' => 'You received a new test notification',
+     45▕         'enrollmentText' => 'You are allowed to enroll',
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\Util.php[39;22m:[39;1m40[39;22m
+  [37m    Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()[39m
+
+  [41;1m Error [49;22m
+
+[39;1m  Class "App\Console\Commands\User" not found[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39m:[32m41[39m
+     37▕      * @return int
+     38▕      */
+     39▕     public function handle()
+     40▕     {
+  ➜  41▕     $user = User::first();
+     42▕ 
+     43▕     $enrollmentData = [
+     44▕         'body' => 'You received a new test notification',
+     45▕         'enrollmentText' => 'You are allowed to enroll',
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\Util.php[39;22m:[39;1m40[39;22m
+  [37m    Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()[39m
+
+  [41;1m Error [49;22m
+
+[39;1m  Class "App\Console\Commands\User" not found[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39m:[32m41[39m
+     37▕      * @return int
+     38▕      */
+     39▕     public function handle()
+     40▕     {
+  ➜  41▕     $user = User::first();
+     42▕ 
+     43▕     $enrollmentData = [
+     44▕         'body' => 'You received a new test notification',
+     45▕         'enrollmentText' => 'You are allowed to enroll',
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\Util.php[39;22m:[39;1m40[39;22m
+  [37m    Illuminate\Container\BoundMethod::Illuminate\Container\{closure}()[39m
+
+  [41;1m BadMethodCallException [49;22m
+
+[39;1m  Method Illuminate\Database\Eloquent\Collection::notify does not exist.[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Macroable\Traits\Macroable.php[39m:[32m113[39m
+    109▕      */
+    110▕     public function __call($method, $parameters)
+    111▕     {
+    112▕         if (! static::hasMacro($method)) {
+  ➜ 113▕             throw new BadMethodCallException(sprintf(
+    114▕                 'Method %s::%s does not exist.', static::class, $method
+    115▕             ));
+    116▕         }
+    117▕
+
+  [34;1m• [39;22m[39;1mBad Method Call[39;22m: Did you mean Illuminate\Database\Eloquent\Collection::identity() ? 
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39;22m:[39;1m51[39;22m
+  [37m    Illuminate\Support\Collection::__call("notify")[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
+
+  [41;1m BadMethodCallException [49;22m
+
+[39;1m  Method Illuminate\Database\Eloquent\Collection::notify does not exist.[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Macroable\Traits\Macroable.php[39m:[32m113[39m
+    109▕      */
+    110▕     public function __call($method, $parameters)
+    111▕     {
+    112▕         if (! static::hasMacro($method)) {
+  ➜ 113▕             throw new BadMethodCallException(sprintf(
+    114▕                 'Method %s::%s does not exist.', static::class, $method
+    115▕             ));
+    116▕         }
+    117▕
+
+  [34;1m• [39;22m[39;1mBad Method Call[39;22m: Did you mean Illuminate\Database\Eloquent\Collection::identity() ? 
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39;22m:[39;1m51[39;22m
+  [37m    Illuminate\Support\Collection::__call("notify")[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
+
+  [41;1m BadMethodCallException [49;22m
+
+[39;1m  Method Illuminate\Database\Eloquent\Collection::notify does not exist.[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Macroable\Traits\Macroable.php[39m:[32m113[39m
+    109▕      */
+    110▕     public function __call($method, $parameters)
+    111▕     {
+    112▕         if (! static::hasMacro($method)) {
+  ➜ 113▕             throw new BadMethodCallException(sprintf(
+    114▕                 'Method %s::%s does not exist.', static::class, $method
+    115▕             ));
+    116▕         }
+    117▕
+
+  [34;1m• [39;22m[39;1mBad Method Call[39;22m: Did you mean Illuminate\Database\Eloquent\Collection::identity() ? 
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39;22m:[39;1m51[39;22m
+  [37m    Illuminate\Support\Collection::__call("notify")[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
+
+  [41;1m BadMethodCallException [49;22m
+
+[39;1m  Method Illuminate\Database\Eloquent\Collection::notify does not exist.[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Macroable\Traits\Macroable.php[39m:[32m113[39m
+    109▕      */
+    110▕     public function __call($method, $parameters)
+    111▕     {
+    112▕         if (! static::hasMacro($method)) {
+  ➜ 113▕             throw new BadMethodCallException(sprintf(
+    114▕                 'Method %s::%s does not exist.', static::class, $method
+    115▕             ));
+    116▕         }
+    117▕
+
+  [34;1m• [39;22m[39;1mBad Method Call[39;22m: Did you mean Illuminate\Database\Eloquent\Collection::identity() ? 
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39;22m:[39;1m51[39;22m
+  [37m    Illuminate\Support\Collection::__call("notify")[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
+
+  [41;1m BadMethodCallException [49;22m
+
+[39;1m  Method Illuminate\Database\Eloquent\Collection::notify does not exist.[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Macroable\Traits\Macroable.php[39m:[32m113[39m
+    109▕      */
+    110▕     public function __call($method, $parameters)
+    111▕     {
+    112▕         if (! static::hasMacro($method)) {
+  ➜ 113▕             throw new BadMethodCallException(sprintf(
+    114▕                 'Method %s::%s does not exist.', static::class, $method
+    115▕             ));
+    116▕         }
+    117▕
+
+  [34;1m• [39;22m[39;1mBad Method Call[39;22m: Did you mean Illuminate\Database\Eloquent\Collection::identity() ? 
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39;22m:[39;1m51[39;22m
+  [37m    Illuminate\Support\Collection::__call("notify")[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
+
+  [41;1m BadMethodCallException [49;22m
+
+[39;1m  Method Illuminate\Database\Eloquent\Collection::notify does not exist.[39;22m
+
+  at [32mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Macroable\Traits\Macroable.php[39m:[32m113[39m
+    109▕      */
+    110▕     public function __call($method, $parameters)
+    111▕     {
+    112▕         if (! static::hasMacro($method)) {
+  ➜ 113▕             throw new BadMethodCallException(sprintf(
+    114▕                 'Method %s::%s does not exist.', static::class, $method
+    115▕             ));
+    116▕         }
+    117▕
+
+  [34;1m• [39;22m[39;1mBad Method Call[39;22m: Did you mean Illuminate\Database\Eloquent\Collection::identity() ? 
+
+  [33m1   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\app\Console\Commands\DailyMessage.php[39;22m:[39;1m51[39;22m
+  [37m    Illuminate\Support\Collection::__call("notify")[39m
+
+  [33m2   [39m[39;1mC:\Users\ASUS\Documents\laravelRoadmap\Test-Laravel-Task-Schedule\vendor\laravel\framework\src\Illuminate\Container\BoundMethod.php[39;22m:[39;1m36[39;22m
+  [37m    App\Console\Commands\DailyMessage::handle()[39m
